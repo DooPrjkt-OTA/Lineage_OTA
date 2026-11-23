@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1795419702,
+    "files": [
+      {
+        "filename": "lineage-24.0-20261123-UNOFFICIAL-X1.zip",
+        "sha256": "3b1085f29df0012a8604687fa70c08bf25680489e8c3bfbfb086d4965f83074b",
+        "size": 1401858802,
+        "url": "https://github.com/DooPrjkt-OTA/Lineage_OTA/releases/download/20261123/lineage-24.0-20261123-UNOFFICIAL-X1.zip",
+        "os_patch_level": "2026-11-01",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:4824:126527,payload.bin:4824:1401850546,payload_properties.txt:1401855428:156,apex_info.pb:2168:1484,care_map.pb:3699:1078,metadata:69:683,metadata.pb:820:1300                        "
+      }
+    ],
+    "type": "nightly",
+    "version": "24.0"
+  }
+]
